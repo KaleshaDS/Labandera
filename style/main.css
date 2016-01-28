@@ -11,4 +11,5 @@ div{
 	font-size:40px;
 	/*float: left;*/
 	margin:10px;
+	display: inline-block;
 }
